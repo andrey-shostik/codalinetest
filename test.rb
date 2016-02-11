@@ -1,6 +1,6 @@
 class Test
   def hello
-    # comment nice :)
+    # comment nice :) lala
     puts 'hello!!!'
   end
 
